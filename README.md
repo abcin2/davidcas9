@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm David, I'm an independent neuroscience researcher and software developer interested in education technology, synaptic plasticity, memory traces, and learning and memory circuitry in general.
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 
  ### Exploring TMS Mechanisms With High-res Imaging
 
@@ -31,24 +31,24 @@ I'm David, I'm an independent neuroscience researcher and software developer int
 
 * The MIT DiCarlo lab’s CORnet is the highest performing visual cortex model to date. I’m working on testing whether it performs more similarly to layperson accuracy, expert accu- racy, or traditional ML accuracy on radiology image data.
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
 I'm learning about neural coding models, dynamical modeling in Julia, and how to use NEURON and Nengo.
 
-- 👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate on ...
 
 * Student modeling approaches incoporating neurally realistic networks and features like stress, pharmacology, and emotional/motivational processes.
 
 * Realistic modeling of corticothalamic circuitry involved in memory and learning.
 
-- 🤔 I’m looking for help with ...
+🤔 I’m looking for help with ...
 
 Math! Let me know if ya know of a good resource for probability and advanced differential equations.
 
-- 📫 How to reach me: ...
+📫 How to reach me: ...
 
 Send me a github message. 
 
-- ⚡ Fun fact: 
+⚡ Fun fact: 
 
 If you do kareoke before your exam, you will probably do much better on it, especially if you were nervous.
