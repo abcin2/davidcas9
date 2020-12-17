@@ -29,7 +29,7 @@ I'm David, I'm an independent neuroscience researcher and software developer int
 
 ### SPAUN Mods
 
-* Researchers at the University of Waterloo have developed a platform ([SPAUN](https://xchoo.github.io/spaun2.0/)) within Nengo that allows users to plug in and out models of different cognitive systems in the brain to see how they interact to form behaviors (through the control of a robotic arm). The MIT DiCarlo lab’s CORnet is the highest performing visual cortex model to date. I am looking to implement CORnet and other highly successful and realistic neural system models in SPAUN 2.0, then benchmark them using BrainScore on layperson and expert recognition tasks.
+* Researchers at the University of Waterloo have developed a platform ([SPAUN](https://xchoo.github.io/spaun2.0/)) within Nengo that allows users to plug in and out models of different cognitive systems in the brain to see how they interact to form behaviors (through the control of a robotic arm). The MIT DiCarlo lab’s CORnet is the highest performing visual cortex model to date. I am looking to implement CORnet and other highly successful and realistic neural system models in SPAUN 2.0, then benchmark them using [BrainScore](http://www.brain-score.org/) on layperson and expert recognition tasks.
 
 🌱 I’m currently learning ...
 
