@@ -21,7 +21,7 @@ I'm David, I'm an independent neuroscience researcher and software developer int
 
  ### Exploring TMS Mechanisms With High-res Imaging
 
-* Dr. Lipeng Ning at the MGH Camprodon lab has [developed high-resolution diffusion MRI techniques](https://www.sciencedirect.com/science/article/abs/pii/S1053811915009738) and has been using them to study mechanisms of neuromodulation like repetitive [transcranial magnetic stimulation](https://www.britannica.com/science/transcranial-magnetic-stimulation) (rTMS). As a prospective incoming data analyst for the lab, I hope to elucidate these mechanisms by leaning on novel statistical techniques validated by various researchers including Rajan, Jadi, and Harvey.
+* Dr. Lipeng Ning at the MGH Camprodon lab has [developed high-resolution diffusion MRI techniques](https://www.sciencedirect.com/science/article/abs/pii/S1053811915009738) and has been using them to study mechanisms of neuromodulation techniques like repetitive [transcranial magnetic stimulation](https://www.britannica.com/science/transcranial-magnetic-stimulation) (rTMS). As a prospective incoming data analyst for the lab, I hope to elucidate these mechanisms by leaning on novel statistical techniques validated by various researchers including Rajan, Jadi, and Harvey.
 
 ### Plasticker
 
