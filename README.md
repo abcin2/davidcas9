@@ -25,7 +25,7 @@ I'm David, I'm an independent neuroscience researcher and software developer int
 
 ### Plasticker
 
-* Few models have allowed for the simulation of synaptic plasticity in a biophysically realistic manner. I am augmenting large realistic network models built with Michael Hines’ NEURON library to produce these kinds of constrained models to elucidate the role of plasticity in learning and memory circuits involving the hippocampus.
+* Few models have allowed for the simulation of synaptic plasticity in a biophysically realistic manner. I am augmenting large realistic network models built with Michael Hines’ [NEURON library](https://www.neuron.yale.edu/neuron/) to produce these kinds of constrained models to elucidate the role of plasticity in learning and memory circuits involving the hippocampus.
 
 ### SPAUN Mods
 
