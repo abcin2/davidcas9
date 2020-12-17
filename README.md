@@ -47,7 +47,7 @@ Math! Let me know if ya know of a good resource for probability and advanced dif
 
 📫 How to reach me: ...
 
-Send me a github message. 
+Open an issue on my repo with a way to reach you.
 
 ⚡ Fun fact: 
 
