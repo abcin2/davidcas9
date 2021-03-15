@@ -19,9 +19,9 @@ I'm David, I'm an independent neuroscience researcher and software developer int
 
 🔭 I’m currently working on ...
 
- ### Exploring TMS Mechanisms With High-res Imaging
+ ### Lux
 
-* Dr. Lipeng Ning at the MGH Camprodon lab has [developed high-resolution diffusion MRI techniques](https://www.sciencedirect.com/science/article/abs/pii/S1053811915009738) and has been using them to study mechanisms of neuromodulation techniques like repetitive [transcranial magnetic stimulation](https://www.britannica.com/science/transcranial-magnetic-stimulation) (rTMS). As a prospective incoming data analyst for the lab, I hope to elucidate these mechanisms by leaning on novel statistical techniques validated by various researchers including Rajan, Jadi, and Harvey. If I join the lab I will do this alongside my main responsibility of creating a centralized pipeline for neuroimaging data at MGH.
+* Lux is a courseware platform which unlock's the Black Box that is student's minds and builds student's cognitive skills with memory-focused curriculum. We are looking to build a simplified model of the cognitive architecture students have as they learn, with the hope that this will help us better understand the intersection of SEL with curriculum design.
 
 ### Plasticker
 
