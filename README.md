@@ -21,7 +21,7 @@ I'm David, I'm an independent neuroscience researcher and software developer int
 
  ### Lux
 
-* Lux is a courseware platform which unlock's the Black Box that is student's minds and builds student's cognitive skills with memory-focused curriculum. We are looking to build a simplified model of the cognitive architecture students have as they learn, with the hope that this will help us better understand the intersection of SEL with curriculum design.
+* Lux is a courseware platform which unlocks the Black Box that is student's minds and builds student's cognitive skills with memory-focused curriculum. We are looking to build a simplified model of the cognitive architecture students have as they learn, with the hope that this will help us better understand the intersection of SEL with curriculum design.
 
 ### Plasticker
 
